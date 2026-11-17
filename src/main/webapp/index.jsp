@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <html>
 <body>
 <h2>Hello World!</h2>
@@ -127,5 +126,3 @@
     </div>
 </body>
 </html>
-
->>>>>>> 1299ae1a2c159fbe2bca2ee2f9af61f9667efd8e
